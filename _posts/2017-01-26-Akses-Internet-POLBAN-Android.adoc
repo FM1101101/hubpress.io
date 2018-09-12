@@ -1,6 +1,6 @@
 = Akses Internet POLBAN (Android)
 :hp-tags: Tutorial, Internet, POLBAN, Android
-:hp-image: /images/2017/01/26/cover.png
+:hp-image: images/2017/01/26/cover.png
 :experimental:
 
 *Bismillah*, +
