@@ -1,0 +1,160 @@
+= Akses Internet POLBAN (Android)
+:hp-tags: Tutorial, Internet, POLBAN, Android
+:hp-image: /images/2017/01/26/cover.png
+:experimental:
+
+*Bismillah*, +
+bicara tentang dunia perkuliahan memang rumit, salah satunya masalah per-uang-an. Buktinya, sebagian besar pembaca artikel ini mungkin termasuk golongan pencari-gratisan, ya kan? ngaku aja deh.
+
+{empty}
+Tulisan ini berguna agar kamu bisa memaksimalkan akses internet 'gratis' yang POLBAN sediakan. Maksudnya? Nantinya, kamu bisa akses Whatsapp, LINE, Instagram dan berbagai aplikasi Android lainnya yang biasanya tidak bisa diakses. +
+
+{empty}
+Daripada sisa-kuota-murah Kamu terbuang sia-sia untuk membaca prolog ini, berikut langkah-langkahnya.
+
+{empty}
+*Pertama*, install aplikasi *Drony*
+
+* via https://play.google.com/store/apps/details?id=org.sandroproxy.drony[Google Play Store]
+* https://apps.evozi.com/apk-downloader/?id=org.sandroproxy.drony[Sideload]
+
+++++
+<a href ="https://fm1101101.github.io/images/2017/01/26/1.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/1.png#small" alt="1"/>
+</a>
+++++
+
+{empty}
+
+---
+*Kedua*, buka Drony
+
+Pada bagian Settings => klik *Wi-Fi* pada bagian Networks.
+
+++++
+<a href ="https://fm1101101.github.io/images/2017/01/26/2.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/2.png#small" alt="2"/>
+</a>
+++++
+
+{empty}
+
+---
+*Ketiga*, pilih *nama SSID Wi-Fi* Politeknik Negeri Bandung yang sedang Kamu gunakan
+
+++++
+<a href ="https://fm1101101.github.io/images/2017/01/26/3.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/3.png#small" alt="3"/>
+</a>
+++++
+
+{empty}
+
+---
+*Keempat*, pada bagian *<SSID>-Manual Proxy*, ubah
+
+* Hostname			: 10.50.10.1,
+* Port				: 8080,
+* Username			: <username yang diberikan oleh POLBAN>,
+* Password			: <password yang diberikan oleh POLBAN>,
+* Domain or Realm   : polban.ac.id
+
+++++
+<a href ="https://fm1101101.github.io/images/2017/01/26/4.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/4.png#small" alt="4"/>
+</a>
+++++
+
+{empty}
+
+---
+*Kelima*, pada bagian *<SSID> DOMAIN*, ubah
+
+* Domain name       : polban.ac.id
+
+Pada bagian *<SSID> DNS*, ubah juga
+
+* Cache, Use local cache        : ✅
+* DNSCrypt, Use dnscrypt proxy  : ✅
+
+++++
+<a href ="https://fm1101101.github.io/images/2017/01/26/5.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/5.png#small" alt="5"/>
+</a>
+++++
+
+{empty}
+
+---
+*Keenam*, pada bagian yang sama (*<SSID> DNS*)
+
+* Klik *DNSCrypt, Edit DNSCrypt Settigs*
+* Pada bagian *List of resolvers:* => pilih _provider_ DNS yang Kamu suka
++
+(Saya sarankan pilih 'cisco' atau 'cisco-familyshield').
+
+++++
+<a href ="https://fm1101101.github.io/images/2017/01/26/6.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/6.png#small" alt="6"/>
+</a>
+++++
+
+{empty}
+
+---
+*Ketujuh*, *scroll* ke bagian atas. Pada bagian *<SSID>*, ubah
+
+* Proxy type        : Manual
+* Start option      : ✅ (Always starts)
+
+++++
+<a href ="https://fm1101101.github.io/images/2017/01/26/7.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/7.png#small" alt="7"/>
+</a>
+++++
+
+{empty}
+
+---
+*Kedelapan*, buka *pengaturan* Wi-Fi Android => Ubah Proxy Wi-Fi yang sedang digunakan menjadi
+
+* Proxy host name   : localhost atau 127.0.0.1,
+* Proxyport         : 8020 (menyesuaikan port pada Drony),
+* Bypass proxy for (optional)   : data-center.polban.ac.id.
+
+++++
+<a href ="https://fm1101101.github.io/images/2017/01/26/8.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/8.png#small" alt="8"/>
+</a>
+++++
+
+{empty}
+
+---
+*Kesembilan*, untuk pengaturan SSID lain dapat menggunakan cara pintas, dengan cara
+
+* tekan lama (*_hold_*) pada nama SSID W-Fi yang akan digunakan,
+* klik *_Copy from other Wifi_*,
+* pilih SSID yang *sebelumnya* sudah diatur pengaturannya,
+* *Ulangi langkah kedelapan* pada Wi-Fi yang akan digunakan.
+
+++++
+<a href ="https://fm1101101.github.io/images/2017/01/26/9.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/9.png#small" alt="9"/>
+</a>
+++++
+
+{empty}
+
+---
+*Terakhir*, tes koneksi internet Kamu. +
+Jika bisa, Selamat! Kamu berhasil internetan maksimal di POLBAN.
+
+{empty}
+Semoga artikel ini bermanfaat untuk teman semua, teruntuk teman-teman seperjuangan di Politeknik Negeri Bandung.
+
+btn:[https://onedrive.live.com/download?cid=64B2589FFB87B01B&resid=64B2589FFB87B01B%2111299&authkey=AOX-0c8b4BvKJlY[Unduh]] [.pdf]
+
+{empty}
+Terima Kasih +
+Bekasi, 26 Januari 2017
