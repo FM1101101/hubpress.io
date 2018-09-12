@@ -53,5 +53,10 @@
     "paypalme": "",
     "opencollective": ""
   },
-  "navigation": []
+  "navigation": [
+    {
+      "label": "Curriculum Vitae",
+      "url": "https://fm1101101.github.io/curriculum-vitae"
+    }
+  ]
 }
