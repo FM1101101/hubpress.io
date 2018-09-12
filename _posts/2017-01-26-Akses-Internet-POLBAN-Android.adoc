@@ -19,9 +19,7 @@ Daripada sisa-kuota-murah Kamu terbuang sia-sia untuk membaca prolog ini, beriku
 * https://apps.evozi.com/apk-downloader/?id=org.sandroproxy.drony[Sideload]
 
 ++++
-<a href ="/notula/images/2017/01/26/1.png">
-<img src="/notula/images/2017/01/26/1.png#small" alt="1"/>
-</a>
+image::/notula/images/2017/01/26/1.png[1]
 ++++
 
 {empty}
@@ -32,9 +30,7 @@ Daripada sisa-kuota-murah Kamu terbuang sia-sia untuk membaca prolog ini, beriku
 Pada bagian Settings => klik *Wi-Fi* pada bagian Networks.
 
 ++++
-<a href ="/notula/notula/images/2017/01/26/2.png">
-<img src="/notula/notula/images/2017/01/26/2.png#small" alt="2"/>
-</a>
+image::/notula/images/2017/01/26/2.png[2]
 ++++
 
 {empty}
@@ -43,9 +39,7 @@ Pada bagian Settings => klik *Wi-Fi* pada bagian Networks.
 *Ketiga*, pilih *nama SSID Wi-Fi* Politeknik Negeri Bandung yang sedang Kamu gunakan
 
 ++++
-<a href ="/notula/images/2017/01/26/3.png">
-<img src="/notula/images/2017/01/26/3.png#small" alt="3"/>
-</a>
+image::/notula/images/2017/01/26/3.png[3]
 ++++
 
 {empty}
@@ -60,9 +54,7 @@ Pada bagian Settings => klik *Wi-Fi* pada bagian Networks.
 * Domain or Realm   : polban.ac.id
 
 ++++
-<a href ="/notula/images/2017/01/26/4.png">
-<img src="/notula/images/2017/01/26/4.png#small" alt="4"/>
-</a>
+image::/notula/images/2017/01/26/4.png[4]
 ++++
 
 {empty}
@@ -78,9 +70,7 @@ Pada bagian *<SSID> DNS*, ubah juga
 * DNSCrypt, Use dnscrypt proxy  : ✅
 
 ++++
-<a href ="/notula/images/2017/01/26/5.png">
-<img src="/notula/images/2017/01/26/5.png#small" alt="5"/>
-</a>
+image::/notula/images/2017/01/26/5.png[5]
 ++++
 
 {empty}
@@ -94,9 +84,7 @@ Pada bagian *<SSID> DNS*, ubah juga
 (Saya sarankan pilih 'cisco' atau 'cisco-familyshield').
 
 ++++
-<a href ="/notula/images/2017/01/26/6.png">
-<img src="/notula/images/2017/01/26/6.png#small" alt="6"/>
-</a>
+image::/notula/images/2017/01/26/6.png[6]
 ++++
 
 {empty}
@@ -108,9 +96,7 @@ Pada bagian *<SSID> DNS*, ubah juga
 * Start option      : ✅ (Always starts)
 
 ++++
-<a href ="/notula/images/2017/01/26/7.png">
-<img src="/notula/images/2017/01/26/7.png#small" alt="7"/>
-</a>
+image::/notula/images/2017/01/26/7.png[7]
 ++++
 
 {empty}
@@ -123,9 +109,7 @@ Pada bagian *<SSID> DNS*, ubah juga
 * Bypass proxy for (optional)   : data-center.polban.ac.id.
 
 ++++
-<a href ="/notula/images/2017/01/26/8.png">
-<img src="/notula/images/2017/01/26/8.png#small" alt="8"/>
-</a>
+image::/notula/images/2017/01/26/8.png[8]
 ++++
 
 {empty}
@@ -139,9 +123,7 @@ Pada bagian *<SSID> DNS*, ubah juga
 * *Ulangi langkah kedelapan* pada Wi-Fi yang akan digunakan.
 
 ++++
-<a href ="/notula/images/2017/01/26/9.png">
-<img src="/notula/images/2017/01/26/9.png#small" alt="9"/>
-</a>
+image::/notula/images/2017/01/26/9.png[9]
 ++++
 
 {empty}
