@@ -1,6 +1,6 @@
 = Akses Internet POLBAN (Android)
 :hp-tags: Tutorial, Internet, POLBAN, Android
-:hp-image: images/2017/01/26/cover.png
+:hp-image: /images/2017/01/26/cover.png
 :experimental:
 
 *Bismillah*, +
@@ -19,8 +19,8 @@ Daripada sisa-kuota-murah Kamu terbuang sia-sia untuk membaca prolog ini, beriku
 * https://apps.evozi.com/apk-downloader/?id=org.sandroproxy.drony[Sideload]
 
 ++++
-<a href ="https://fm1101101.github.io/images/2017/01/26/1.png">
-<img src="https://fm1101101.github.io/images/2017/01/26/1.png#small" alt="1"/>
+<a href ="/images/2017/01/26/1.png">
+<img src="/images/2017/01/26/1.png#small" alt="1"/>
 </a>
 ++++
 
@@ -32,8 +32,8 @@ Daripada sisa-kuota-murah Kamu terbuang sia-sia untuk membaca prolog ini, beriku
 Pada bagian Settings => klik *Wi-Fi* pada bagian Networks.
 
 ++++
-<a href ="https://fm1101101.github.io/images/2017/01/26/2.png">
-<img src="https://fm1101101.github.io/images/2017/01/26/2.png#small" alt="2"/>
+<a href ="/images/2017/01/26/2.png">
+<img src="/images/2017/01/26/2.png#small" alt="2"/>
 </a>
 ++++
 
@@ -43,8 +43,8 @@ Pada bagian Settings => klik *Wi-Fi* pada bagian Networks.
 *Ketiga*, pilih *nama SSID Wi-Fi* Politeknik Negeri Bandung yang sedang Kamu gunakan
 
 ++++
-<a href ="https://fm1101101.github.io/images/2017/01/26/3.png">
-<img src="https://fm1101101.github.io/images/2017/01/26/3.png#small" alt="3"/>
+<a href ="/images/2017/01/26/3.png">
+<img src="/images/2017/01/26/3.png#small" alt="3"/>
 </a>
 ++++
 
@@ -60,8 +60,8 @@ Pada bagian Settings => klik *Wi-Fi* pada bagian Networks.
 * Domain or Realm   : polban.ac.id
 
 ++++
-<a href ="https://fm1101101.github.io/images/2017/01/26/4.png">
-<img src="https://fm1101101.github.io/images/2017/01/26/4.png#small" alt="4"/>
+<a href ="/images/2017/01/26/4.png">
+<img src="/images/2017/01/26/4.png#small" alt="4"/>
 </a>
 ++++
 
@@ -78,8 +78,8 @@ Pada bagian *<SSID> DNS*, ubah juga
 * DNSCrypt, Use dnscrypt proxy  : ✅
 
 ++++
-<a href ="https://fm1101101.github.io/images/2017/01/26/5.png">
-<img src="https://fm1101101.github.io/images/2017/01/26/5.png#small" alt="5"/>
+<a href ="/images/2017/01/26/5.png">
+<img src="/images/2017/01/26/5.png#small" alt="5"/>
 </a>
 ++++
 
@@ -94,8 +94,8 @@ Pada bagian *<SSID> DNS*, ubah juga
 (Saya sarankan pilih 'cisco' atau 'cisco-familyshield').
 
 ++++
-<a href ="https://fm1101101.github.io/images/2017/01/26/6.png">
-<img src="https://fm1101101.github.io/images/2017/01/26/6.png#small" alt="6"/>
+<a href ="/images/2017/01/26/6.png">
+<img src="/images/2017/01/26/6.png#small" alt="6"/>
 </a>
 ++++
 
@@ -108,8 +108,8 @@ Pada bagian *<SSID> DNS*, ubah juga
 * Start option      : ✅ (Always starts)
 
 ++++
-<a href ="https://fm1101101.github.io/images/2017/01/26/7.png">
-<img src="https://fm1101101.github.io/images/2017/01/26/7.png#small" alt="7"/>
+<a href ="/images/2017/01/26/7.png">
+<img src="/images/2017/01/26/7.png#small" alt="7"/>
 </a>
 ++++
 
@@ -123,8 +123,8 @@ Pada bagian *<SSID> DNS*, ubah juga
 * Bypass proxy for (optional)   : data-center.polban.ac.id.
 
 ++++
-<a href ="https://fm1101101.github.io/images/2017/01/26/8.png">
-<img src="https://fm1101101.github.io/images/2017/01/26/8.png#small" alt="8"/>
+<a href ="/images/2017/01/26/8.png">
+<img src="/images/2017/01/26/8.png#small" alt="8"/>
 </a>
 ++++
 
@@ -139,8 +139,8 @@ Pada bagian *<SSID> DNS*, ubah juga
 * *Ulangi langkah kedelapan* pada Wi-Fi yang akan digunakan.
 
 ++++
-<a href ="https://fm1101101.github.io/images/2017/01/26/9.png">
-<img src="https://fm1101101.github.io/images/2017/01/26/9.png#small" alt="9"/>
+<a href ="/images/2017/01/26/9.png">
+<img src="/images/2017/01/26/9.png#small" alt="9"/>
 </a>
 ++++
 
