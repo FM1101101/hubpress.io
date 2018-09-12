@@ -31,8 +31,8 @@
     "site": {
         "title": "Notula Fuad",
         "description": "Catatan kecil Fuad",
-        "logo": "",
-        "cover": "https://fm1101101.github.io/img/background.jpeg",
+        "logo": "../favicon.png",
+        "cover": "../img/background.jpeg",
         "delay": "1000",
         "postsPerPage": "",
         "blogPath": "",
