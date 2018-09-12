@@ -1,62 +1,62 @@
 {
-    "meta": {
-        "username": "FM1101101",
-        "repositoryName": "notula",
-        "branch": "gh-pages",
-        "cname": "github.io"
-    },
-    "theme": {
-        "name": "casper"
-    },
-    "urls": {
-        "site": "https://FM1101101.github.io/notula",
-        "hubpress": "https://fm1101101.github.io/notula",
-        "theme": "//FM1101101.github.io/notula/themes/casper",
-        "images": "https://FM1101101.github.io/notula/images"
-    },
-    "initialisationConfigComponent": {
-        "name": "initialise-configuration",
-        "computed": {},
-        "methods": {},
-        "staticRenderFns": [
+  "meta": {
+    "username": "FM1101101",
+    "repositoryName": "notula",
+    "branch": "gh-pages",
+    "cname": "github.io"
+  },
+  "theme": {
+    "name": "casper"
+  },
+  "urls": {
+    "site": "http://github.io",
+    "hubpress": "https://fm1101101.github.io",
+    "theme": "//github.io/themes/casper",
+    "images": "http://github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
       null,
       null,
       null
     ],
-        "_compiled": true,
-        "beforeCreate": [
+    "_compiled": true,
+    "beforeCreate": [
       null
     ]
-    },
-    "site": {
-        "title": "Notula Fuad",
-        "description": "Catatan kecil Fuad",
-        "logo": "../favicon.png",
-        "cover": "../img/background.jpeg",
-        "delay": "1000",
-        "postsPerPage": "",
-        "blogPath": "",
-        "googleAnalytics": "UA-91005650-1",
-        "disqus": "FM1101101"
-    },
-    "socialnetwork": {
-        "email": "FM1101101@outlook.com",
-        "github": "https://github.com/fm1101101",
-        "twitter": "https://twitter.com/fm1101101",
-        "facebook": "https://fb.me/fm1101101",
-        "googleplus": "https://plus.google.com/u/0/+FuadMuhammad",
-        "instagram": "https://instagram.com/fm1101101",
-        "pinterest": "",
-        "flickr": "",
-        "linkedin": "",
-        "stackoverflow": "",
-        "paypalme": "",
-        "opencollective": ""
-    },
-    "navigation": [
-        {
-            "label": "Curriculum Vitae",
-            "url": "https://fm1101101.github.io/curriculum-vitae"
+  },
+  "site": {
+    "title": "Notula Fuad",
+    "description": "Catatan kecil Fuad",
+    "logo": "../favicon.png",
+    "cover": "../img/background.jpeg",
+    "delay": "1000",
+    "postsPerPage": "",
+    "blogPath": "",
+    "googleAnalytics": "UA-91005650-1",
+    "disqus": "FM1101101"
+  },
+  "socialnetwork": {
+    "email": "FM1101101@outlook.com",
+    "github": "https://github.com/fm1101101",
+    "twitter": "https://twitter.com/fm1101101",
+    "facebook": "https://fb.me/fm1101101",
+    "googleplus": "https://plus.google.com/u/0/+FuadMuhammad",
+    "instagram": "https://instagram.com/fm1101101",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": [
+    {
+      "label": "Curriculum Vitae",
+      "url": "https://fm1101101.github.io/curriculum-vitae"
     }
   ]
 }
