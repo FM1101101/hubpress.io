@@ -1,3 +1,225 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notula Fuad]]></title><description><![CDATA[Catatan kecil Fuad]]></description><link>https://FM1101101.github.io/notula</link><generator>RSS for Node</generator><lastBuildDate>Tue, 11 Sep 2018 18:25:52 GMT</lastBuildDate><atom:link href="https://FM1101101.github.io/notula/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hello World]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notula Fuad]]></title><description><![CDATA[Catatan kecil Fuad]]></description><link>https://FM1101101.github.io/notula</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Sep 2018 04:36:37 GMT</lastBuildDate><atom:link href="https://FM1101101.github.io/notula/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Akses Internet POLBAN (Android)]]></title><description><![CDATA[<div class="paragraph">
+<p><strong>Bismillah</strong>,<br>
+bicara tentang dunia perkuliahan memang rumit, salah satunya masalah per-uang-an. Buktinya, sebagian besar pembaca artikel ini mungkin termasuk golongan pencari-gratisan, ya kan? ngaku aja deh.</p>
+</div>
+<div class="paragraph">
+<p>
+Tulisan ini berguna agar kamu bisa memaksimalkan akses internet 'gratis' yang POLBAN sediakan. Maksudnya? Nantinya, kamu bisa akses Whatsapp, LINE, Instagram dan berbagai aplikasi Android lainnya yang biasanya tidak bisa diakses.<br></p>
+</div>
+<div class="paragraph">
+<p>
+Daripada sisa-kuota-murah Kamu terbuang sia-sia untuk membaca prolog ini, berikut langkah-langkahnya.</p>
+</div>
+<div class="paragraph">
+<p>
+<strong>Pertama</strong>, install aplikasi <strong>Drony</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>via <a href="https://play.google.com/store/apps/details?id=org.sandroproxy.drony">Google Play Store</a></p>
+</li>
+<li>
+<p><a href="https://apps.evozi.com/apk-downloader/?id=org.sandroproxy.drony">Sideload</a></p>
+</li>
+</ul>
+</div>
+<a href ="https://fm1101101.github.io/images/2017/01/26/1.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/1.png#small" alt="1"/>
+</a>
+<div class="paragraph">
+<p></p>
+</div>
+<hr>
+<div class="paragraph">
+<p><strong>Kedua</strong>, buka Drony</p>
+</div>
+<div class="paragraph">
+<p>Pada bagian Settings &#8658; klik <strong>Wi-Fi</strong> pada bagian Networks.</p>
+</div>
+<a href ="https://fm1101101.github.io/images/2017/01/26/2.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/2.png#small" alt="2"/>
+</a>
+<div class="paragraph">
+<p></p>
+</div>
+<hr>
+<div class="paragraph">
+<p><strong>Ketiga</strong>, pilih <strong>nama SSID Wi-Fi</strong> Politeknik Negeri Bandung yang sedang Kamu gunakan</p>
+</div>
+<a href ="https://fm1101101.github.io/images/2017/01/26/3.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/3.png#small" alt="3"/>
+</a>
+<div class="paragraph">
+<p></p>
+</div>
+<hr>
+<div class="paragraph">
+<p><strong>Keempat</strong>, pada bagian <strong>&lt;SSID&gt;-Manual Proxy</strong>, ubah</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Hostname			: 10.50.10.1,</p>
+</li>
+<li>
+<p>Port				: 8080,</p>
+</li>
+<li>
+<p>Username			: &lt;username yang diberikan oleh POLBAN&gt;,</p>
+</li>
+<li>
+<p>Password			: &lt;password yang diberikan oleh POLBAN&gt;,</p>
+</li>
+<li>
+<p>Domain or Realm   : polban.ac.id</p>
+</li>
+</ul>
+</div>
+<a href ="https://fm1101101.github.io/images/2017/01/26/4.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/4.png#small" alt="4"/>
+</a>
+<div class="paragraph">
+<p></p>
+</div>
+<hr>
+<div class="paragraph">
+<p><strong>Kelima</strong>, pada bagian <strong>&lt;SSID&gt; DOMAIN</strong>, ubah</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Domain name       : polban.ac.id</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Pada bagian <strong>&lt;SSID&gt; DNS</strong>, ubah juga</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Cache, Use local cache        : ✅</p>
+</li>
+<li>
+<p>DNSCrypt, Use dnscrypt proxy  : ✅</p>
+</li>
+</ul>
+</div>
+<a href ="https://fm1101101.github.io/images/2017/01/26/5.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/5.png#small" alt="5"/>
+</a>
+<div class="paragraph">
+<p></p>
+</div>
+<hr>
+<div class="paragraph">
+<p><strong>Keenam</strong>, pada bagian yang sama (<strong>&lt;SSID&gt; DNS</strong>)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Klik <strong>DNSCrypt, Edit DNSCrypt Settigs</strong></p>
+</li>
+<li>
+<p>Pada bagian <strong>List of resolvers:</strong> &#8658; pilih <em>provider</em> DNS yang Kamu suka</p>
+<div class="paragraph">
+<p>(Saya sarankan pilih 'cisco' atau 'cisco-familyshield').</p>
+</div>
+</li>
+</ul>
+</div>
+<a href ="https://fm1101101.github.io/images/2017/01/26/6.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/6.png#small" alt="6"/>
+</a>
+<div class="paragraph">
+<p></p>
+</div>
+<hr>
+<div class="paragraph">
+<p><strong>Ketujuh</strong>, <strong>scroll</strong> ke bagian atas. Pada bagian <strong>&lt;SSID&gt;</strong>, ubah</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Proxy type        : Manual</p>
+</li>
+<li>
+<p>Start option      : ✅ (Always starts)</p>
+</li>
+</ul>
+</div>
+<a href ="https://fm1101101.github.io/images/2017/01/26/7.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/7.png#small" alt="7"/>
+</a>
+<div class="paragraph">
+<p></p>
+</div>
+<hr>
+<div class="paragraph">
+<p><strong>Kedelapan</strong>, buka <strong>pengaturan</strong> Wi-Fi Android &#8658; Ubah Proxy Wi-Fi yang sedang digunakan menjadi</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Proxy host name   : localhost atau 127.0.0.1,</p>
+</li>
+<li>
+<p>Proxyport         : 8020 (menyesuaikan port pada Drony),</p>
+</li>
+<li>
+<p>Bypass proxy for (optional)   : data-center.polban.ac.id.</p>
+</li>
+</ul>
+</div>
+<a href ="https://fm1101101.github.io/images/2017/01/26/8.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/8.png#small" alt="8"/>
+</a>
+<div class="paragraph">
+<p></p>
+</div>
+<hr>
+<div class="paragraph">
+<p><strong>Kesembilan</strong>, untuk pengaturan SSID lain dapat menggunakan cara pintas, dengan cara</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>tekan lama (<strong><em>hold</em></strong>) pada nama SSID W-Fi yang akan digunakan,</p>
+</li>
+<li>
+<p>klik <strong><em>Copy from other Wifi</em></strong>,</p>
+</li>
+<li>
+<p>pilih SSID yang <strong>sebelumnya</strong> sudah diatur pengaturannya,</p>
+</li>
+<li>
+<p><strong>Ulangi langkah kedelapan</strong> pada Wi-Fi yang akan digunakan.</p>
+</li>
+</ul>
+</div>
+<a href ="https://fm1101101.github.io/images/2017/01/26/9.png">
+<img src="https://fm1101101.github.io/images/2017/01/26/9.png#small" alt="9"/>
+</a>
+<div class="paragraph">
+<p></p>
+</div>
+<hr>
+<div class="paragraph">
+<p><strong>Terakhir</strong>, tes koneksi internet Kamu.<br>
+Jika bisa, Selamat! Kamu berhasil internetan maksimal di POLBAN.</p>
+</div>
+<div class="paragraph">
+<p>
+Semoga artikel ini bermanfaat untuk teman semua, teruntuk teman-teman seperjuangan di Politeknik Negeri Bandung.</p>
+</div>
+<div class="paragraph">
+<p><b class="button"><a href="https://onedrive.live.com/download?cid=64B2589FFB87B01B&amp;resid=64B2589FFB87B01B%2111299&amp;authkey=AOX-0c8b4BvKJlY">Unduh</b></a> [.pdf]</p>
+</div>
+<div class="paragraph">
+<p>
+Terima Kasih<br>
+Bekasi, 26 Januari 2017</p>
+</div>]]></description><link>https://FM1101101.github.io/notula/2017/01/26/Akses-Internet-POLBAN-Android.html</link><guid isPermaLink="true">https://FM1101101.github.io/notula/2017/01/26/Akses-Internet-POLBAN-Android.html</guid><category><![CDATA[Tutorial]]></category><category><![CDATA[Internet]]></category><category><![CDATA[POLBAN]]></category><category><![CDATA[Android]]></category><dc:creator><![CDATA[Fuad Muhammad]]></dc:creator><pubDate>Thu, 26 Jan 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[<div class="paragraph">
 <p>Hello World!</p>
 </div>]]></description><link>https://FM1101101.github.io/notula/1997/03/22/Hello-World.html</link><guid isPermaLink="true">https://FM1101101.github.io/notula/1997/03/22/Hello-World.html</guid><dc:creator><![CDATA[Fuad Muhammad]]></dc:creator><pubDate>Sat, 22 Mar 1997 00:00:00 GMT</pubDate></item></channel></rss>
