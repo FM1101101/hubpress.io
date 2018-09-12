@@ -1,57 +1,19 @@
 {
-  "meta": {
-    "username": "FM1101101",
-    "repositoryName": "notula",
-    "branch": "gh-pages",
-    "cname": ""
-  },
-  "theme": {
-    "name": "casper"
-  },
-  "urls": {
-    "site": "https://FM1101101.github.io/notula",
-    "hubpress": "https://fm1101101.github.io/notula",
-    "theme": "//FM1101101.github.io/notula/themes/casper",
-    "images": "https://FM1101101.github.io/notula/images"
-  },
-  "initialisationConfigComponent": {
-    "name": "initialise-configuration",
-    "computed": {},
-    "methods": {},
-    "staticRenderFns": [
-      null,
-      null,
-      null
-    ],
-    "_compiled": true,
-    "beforeCreate": [
-      null
-    ]
-  },
-  "site": {
-    "title": "Notula Fuad",
-    "description": "Catatan kecil Fuad",
-    "logo": "",
-    "cover": "",
-    "delay": "",
-    "postsPerPage": "",
-    "blogPath": "",
-    "googleAnalytics": "",
-    "disqus": "FM1101101"
-  },
-  "socialnetwork": {
-    "email": "FM1101101@outlook.com",
-    "github": "https://github.com/FM1101101",
-    "twitter": "https://twitter.com/FM1101101 ",
-    "facebook": "https://fb.me/FM1101101 ",
-    "googleplus": "https://plus.google.com/+FuadMuhammad",
-    "instagram": "https://instagram.comFM1101101 ",
-    "pinterest": "",
-    "flickr": "",
-    "linkedin": "https://linkedin.com/in/FM1101101 ",
-    "stackoverflow": "",
-    "paypalme": "",
-    "opencollective": ""
-  },
-  "navigation": []
+
+    "meta": {
+
+        "username": "FM1101101",
+
+        "repositoryName": "notula",
+
+        "branch": "gh-pages"
+
+    },
+
+    "theme": {
+
+        "name": "Casper"
+
+    }
+
 }
