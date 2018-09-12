@@ -11,7 +11,7 @@
     "urls": {
         "site": "https://FM1101101.github.io/notula",
         "hubpress": "https://fm1101101.github.io/notula",
-        "theme": "//FM1101101.github.io/notula/themes/casper",
+        "theme": "https://FM1101101.github.io/notula/themes/casper",
         "images": "https://FM1101101.github.io/notula/images"
     },
     "initialisationConfigComponent": {
