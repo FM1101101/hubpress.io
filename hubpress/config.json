@@ -33,7 +33,7 @@
     "description": "Catatan kecil Fuad",
     "logo": "",
     "cover": "",
-    "delay": "",
+    "delay": "1000",
     "postsPerPage": "",
     "blogPath": "",
     "googleAnalytics": "",
