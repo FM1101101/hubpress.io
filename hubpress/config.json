@@ -7,6 +7,12 @@
     "theme": {
         "name": "casper"
     },
+    "urls": {
+        "site": "https://fm1101101.github.io/notula",
+        "hubpress": "https://fm1101101.github.io/notula",
+        "theme": "//fm1101101.github.io/notula/themes/casper",
+        "images": "https://fm1101101.github.io/notula/images"
+    },
     "initialisationConfigComponent": {
         "name": "initialise-configuration",
         "computed": {},
