@@ -1,5 +1,5 @@
 = Hello World
-:hp-image: /covers/cover.png
+:hp-image: https://fm1101101.github.io/notula/images/1997/03/22/hello-world.png
 :published_at: 1997-03-22
 
 Hello World!
