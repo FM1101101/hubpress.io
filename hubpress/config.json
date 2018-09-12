@@ -1,31 +1,19 @@
+
 {
+
   "meta": {
-    "username": "FM1101101",
-    "repositoryName": "notula",
+
+    "username": "put your username here",
+
+    "repositoryName": "put your repository name here",
+
     "branch": "master"
+
   },
+
   "theme": {
-    "name": "casper"
-  },
-  "urls": {
-    "site": "https://FM1101101.github.io/notula",
-    "hubpress": "https://fm1101101.github.io/notula",
-    "theme": "//FM1101101.github.io/notula/themes/casper",
-    "images": "https://FM1101101.github.io/notula/images"
-  },
-  "initialisationConfigComponent": {
-    "name": "initialise-configuration",
-    "computed": {},
-    "methods": {},
-    "staticRenderFns": [
-      null,
-      null,
-      null
-    ],
-    "_compiled": true,
-    "beforeCreate": [
-      null
-    ],
-    "_Ctor": {}
+
+    "name": "Casper"
+
   }
 }
