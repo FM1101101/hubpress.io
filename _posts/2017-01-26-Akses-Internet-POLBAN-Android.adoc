@@ -18,9 +18,7 @@ Daripada sisa-kuota-murah Kamu terbuang sia-sia untuk membaca prolog ini, beriku
 * via https://play.google.com/store/apps/details?id=org.sandroproxy.drony[Google Play Store]
 * https://apps.evozi.com/apk-downloader/?id=org.sandroproxy.drony[Sideload]
 
-++++
 image::/notula/images/2017/01/26/1.png[1]
-++++
 
 {empty}
 
@@ -29,18 +27,14 @@ image::/notula/images/2017/01/26/1.png[1]
 
 Pada bagian Settings => klik *Wi-Fi* pada bagian Networks.
 
-++++
 image::/notula/images/2017/01/26/2.png[2]
-++++
 
 {empty}
 
 ---
 *Ketiga*, pilih *nama SSID Wi-Fi* Politeknik Negeri Bandung yang sedang Kamu gunakan
 
-++++
 image::/notula/images/2017/01/26/3.png[3]
-++++
 
 {empty}
 
@@ -53,9 +47,7 @@ image::/notula/images/2017/01/26/3.png[3]
 * Password			: <password yang diberikan oleh POLBAN>,
 * Domain or Realm   : polban.ac.id
 
-++++
 image::/notula/images/2017/01/26/4.png[4]
-++++
 
 {empty}
 
@@ -69,9 +61,7 @@ Pada bagian *<SSID> DNS*, ubah juga
 * Cache, Use local cache        : ✅
 * DNSCrypt, Use dnscrypt proxy  : ✅
 
-++++
 image::/notula/images/2017/01/26/5.png[5]
-++++
 
 {empty}
 
@@ -83,9 +73,7 @@ image::/notula/images/2017/01/26/5.png[5]
 +
 (Saya sarankan pilih 'cisco' atau 'cisco-familyshield').
 
-++++
 image::/notula/images/2017/01/26/6.png[6]
-++++
 
 {empty}
 
@@ -95,9 +83,7 @@ image::/notula/images/2017/01/26/6.png[6]
 * Proxy type        : Manual
 * Start option      : ✅ (Always starts)
 
-++++
 image::/notula/images/2017/01/26/7.png[7]
-++++
 
 {empty}
 
@@ -108,9 +94,7 @@ image::/notula/images/2017/01/26/7.png[7]
 * Proxyport         : 8020 (menyesuaikan port pada Drony),
 * Bypass proxy for (optional)   : data-center.polban.ac.id.
 
-++++
 image::/notula/images/2017/01/26/8.png[8]
-++++
 
 {empty}
 
@@ -122,9 +106,7 @@ image::/notula/images/2017/01/26/8.png[8]
 * pilih SSID yang *sebelumnya* sudah diatur pengaturannya,
 * *Ulangi langkah kedelapan* pada Wi-Fi yang akan digunakan.
 
-++++
 image::/notula/images/2017/01/26/9.png[9]
-++++
 
 {empty}
 
