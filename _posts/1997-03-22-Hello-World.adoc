@@ -2,4 +2,4 @@
 :hp-image: /notula/images/1997/03/22/hello-world.png
 :published_at: 1997-03-22
 
-Hello World!
+﷽
